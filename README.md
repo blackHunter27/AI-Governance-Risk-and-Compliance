@@ -1,4 +1,4 @@
-# AI Governance & Compliance Risk Assessment (EU AI Act & ISO 42001)
+# AI Governance & Compliance Risk Assessment 
 
 ## Author & Copyright Notice
 Author: Mohamed Eldessouki
@@ -33,5 +33,5 @@ This repository contains a 9-worksheet, enterprise-grade Governance, Risk, and C
 ---
 
 ## File Access & Terms of Use
-* The complete assessment workbook is available in this repository as `TechHire_AI_Risk_Assessment.xlsx`.
+* The complete assessment workbook is available in this repository as `AI_Governance_Risk_and Compliance_TechHire.xlsx`.
 * **Terms:** This work is made public solely for candidate showcase and professional evaluation. Unauthorized copying or redistribution without attribution is prohibited.
